@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs and databases
+*.log
+training.log
+
+# Project specific large files / datasets / weights
+dataset/
+checkpoints/
+*.pth
+*.h5
+*.zip
+*.tar.gz
+DOANVIEMPHOI_WORD1_backup.docx
+
+# IDEs settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

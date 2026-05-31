@@ -1,0 +1,15 @@
+Pathology,AUC,Vietnamese_Name
+Atelectasis,0.37,Xẹp phổi
+Cardiomegaly,0.5,Tim to / Phì đại cơ tim
+Effusion,0.44,Tràn dịch màng phổi
+Infiltration,0.6052631578947368,Thâm nhiễm phổi
+Mass,0.5416666666666667,U phổi
+Nodule,0.5652173913043478,Nốt mờ phổi
+Pneumonia,0.5,Viêm phổi
+Pneumothorax,0.5833333333333334,Tràn khí màng phổi
+Consolidation,0.5,Đông đặc phổi
+Edema,0.9166666666666666,Phù phổi
+Emphysema,0.33333333333333337,Khí phế thũng
+Fibrosis,0.9583333333333334,Xơ hóa phổi
+Pleural_Thickening,0.5434782608695652,Dày màng phổi
+Hernia,0.5,Thoát vị cơ hoành

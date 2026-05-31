@@ -1,0 +1,11 @@
+torch>=2.0.0
+torchvision
+tensorflow>=2.10.0
+pandas
+numpy
+pillow
+matplotlib
+scikit-learn
+tqdm
+gradio>=6.0.0
+h5py
