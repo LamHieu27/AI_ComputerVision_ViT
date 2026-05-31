@@ -36,6 +36,7 @@ f:\Test\ViT\
 ```
 
 ---
+LINK DATASET: https://www.kaggle.com/datasets/khanfashee/nih-chest-x-ray-14-224x224-resized
 
 ## ⚙️ Hướng dẫn Cài đặt & Chuẩn bị
 
